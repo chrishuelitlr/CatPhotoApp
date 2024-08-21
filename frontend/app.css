@@ -1,0 +1,44 @@
+/* classes made */
+.cat-section {
+    text-align: center;
+    margin: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    border: 1px solid #f1ad02;
+    background-color: rgb(255, 255, 255);
+}
+.form-appearance {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    background-color: #FFA07A;
+}
+.form-legend {
+    font-weight: bold; /* Bold text for the legend */
+    padding: 0 10px; /* Padding around the legend text */
+    background-color: lightblue; /* Background color for the legend */
+    border-radius: 5px; /* Rounded corners for the legend background */
+}
+.center-list {
+    text-align: center;
+    list-style-position: inside; /* move the bullet points with text */
+}
+/* format specific ids*/
+h1 {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+section {
+    text-align: center;
+}
+
+body {
+    background-image: url('static/CatBg.png'); /* Replace 'background.jpg' with your image path */
+    background-size: cover; /* Scale the image to cover the entire background */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+}
+
+.img {
+    border-radius: 10px; /* Radius of 10px for rounded corners */
+}
